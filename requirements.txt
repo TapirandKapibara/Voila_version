@@ -7,4 +7,3 @@ tqdm == 4.61.1
 openpyxl == 3.0.5
 voila == 0.2.10
 ipywidgets == 7.6.3
-© 2021 GitHub, Inc.
